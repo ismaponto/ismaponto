@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ismaponto
-- 👀 I’m interested in ... making money! i'm learning to code for that!
-- 🌱 I’m currently learning ... html and python, yeah, i know, so originall!
-- 💞️ I’m looking to collaborate on ... Is there something? just knock on i will answer you
+- 👀 I’m interested in ... developing websites for little companies and shops to expand their market.
+- 🌱 I’m currently learning ... React! I'm working on the CodeAcademy's Full Stack syllabus. 
+- 💞️ I’m looking to collaborate on ... anything for the peace!
 - 📫 How to reach me ... isma.pontoriero@gmail.com
 
 
