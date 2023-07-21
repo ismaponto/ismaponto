@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @ismaponto, I am currently living in France and looking for a job starting September
-- 👀 I’m interested in ... developing websites for little companies and shops to expand their market
-- 🌱 I’m currently learning ... React! I'm working on the CodeAcademy's Full Stack. 
-- 💞️ I’m looking to collaborate on ... anything for the peace!
-- 📫 How to reach me ... isma.pontoriero@gmail.com
+Ismael Pontoriero
 
+## À propos de moi
+Bonjour ! Je suis Ismael Pontoriero, un développeur passionné . J'aime relever des défis et apprendre de nouvelles technologies pour améliorer mes compétences en tant que développeur.
 
+## Technologies
+- Langages de programmation: JavaScript
+- Frontend:  React, Vue.js
+- Backend: Node.js, Express,
+- Base de données: MySQL, PostgreSQL, MONGODB
+- Autres outils:  Git, Visual Studio Code, bash, 
+-Test : Jest, Supertest
